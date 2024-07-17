@@ -320,7 +320,7 @@ local Section = Tab:AddSection({
 Tab:AddButton({
 	Name = "Giga chad",
 	Callback = function()
-      		
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/haahytispoop/gigas/main/README.md",true))()
   	end    
 })
 Tab:AddButton({
